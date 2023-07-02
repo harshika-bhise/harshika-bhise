@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @harshika-bhise
-- 💻 I'm Student 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning New Technologies
 - 💞️ I’m looking to collaborate with other creators
