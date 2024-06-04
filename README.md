@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshika-bhise, Ex- employee of _VOIS.
+- 👋 Hi, I’m @harshika-bhise
 - 👀 I’m interested in Web Development.
 - 🌱 I’m always eagerly learning New Technologies
 
